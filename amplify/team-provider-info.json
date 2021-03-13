@@ -10,6 +10,11 @@
       "StackName": "amplify-amplifyreintroductio-dev-210446",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:395218667042:stack/amplify-amplifyreintroductio-dev-210446/4e2a0e50-83f4-11eb-8217-0ace15cb1881",
       "AmplifyAppId": "dhp2qz3f7kk43"
+    },
+    "categories": {
+      "auth": {
+        "amplifyreintroductiod5c18ff1": {}
+      }
     }
   }
 }
